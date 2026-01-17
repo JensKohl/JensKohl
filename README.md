@@ -3,7 +3,6 @@
 This is my private GitHub page. Overall, the page is under construction... Check back for more content!
 
 [![Selected Works](https://img.shields.io/badge/View_Selected_Works-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://jenskohl.github.io/SelectedWorks/)
-[![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JensKohl)
 
 ---
 
@@ -25,11 +24,8 @@ This is my private GitHub page. Overall, the page is under construction... Check
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jens-kohl/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jens.kohl@gmx.de)
 
 ---
-
-### 📈 My GitHub Stats
-![Jens's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensKohl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensKohl&layout=compact&theme=radical)
+[**⬅ Back to Top**](https://github.com/JensKohl)
