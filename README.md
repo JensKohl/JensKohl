@@ -31,7 +31,5 @@ This is my private GitHub page. Overall, the page is under construction... Check
 ---
 
 ### 📈 My GitHub Stats
-![Jens's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensKohl&show_icons=true&theme=radical&rank_icon=github)
-
----
-[**⬅ Back to Top**](https://github.com/JensKohl)
+![Jens's GitHub stats](https://github-readme-stats.vercel.app/api?username=JensKohl&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JensKohl&layout=compact&theme=radical)
