@@ -14,6 +14,7 @@ This is my private GitHub page. Overall, the page is under construction... Check
 ---
 
 ## 🧪 Experiments
+* **[Sonic2_ReinforcementLearning](https://github.com/JensKohl/Sonic2_ReinforcementLearning)** - Training a Reinforcement Learning agent (CNN and PPO) to play *Sonic the Hedgehog 2* using OpenAI Gym, PyTorch and Google Antigravity.
 * **[AutonomousDrivingWithGTA5](https://github.com/JensKohl/AutonomousDrivingWithGTA5)** - Autonomous driving agent for GTA V using PyTorch for lecture demonstrations.
 
 ---
