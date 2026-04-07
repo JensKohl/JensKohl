@@ -14,7 +14,7 @@ This is my private GitHub page. Overall, the page is under construction... Check
 ---
 
 ## 🧪 Experiments
-* **[AutoResearch_SuperMarioBros](https://github.com/JensKohl/AutoResearch_SuperMarioBros)** – Adapting [Karpathy’s autoresearch](https://github.com/karpathy/autoresearch) framework to the Reinforcement Learning domain. This experiment explores automated loops to improve RL agents and measures convergence speed toward human-level performance in *Super Mario Bros*. **Built with OpenAI Gymnasium, PyTorch, and Google Antigravity.**
+* **[AutoResearch_SuperMarioBros](https://github.com/JensKohl/AutoResearch_SuperMarioBros)** – Adapting [Karpathy’s autoresearch](https://github.com/karpathy/autoresearch) framework to the Reinforcement Learning domain. This experiment explores automated loops to improve RL agents and measures convergence speed toward human-level performance in *Super Mario Bros*. **Built with OpenAI Gymnasium, PyTorch, and Claude Code.**
 * **[Sonic2_ReinforcementLearning](https://github.com/JensKohl/Sonic2_ReinforcementLearning)** - Training a Reinforcement Learning agent (CNN and PPO) to play *Sonic the Hedgehog 2* using OpenAI Gymnasium, PyTorch and Google Antigravity.
 * **[AutonomousDrivingWithGTA5](https://github.com/JensKohl/AutonomousDrivingWithGTA5)** - Autonomous driving agent for GTA V using PyTorch for lecture demonstrations.
 
